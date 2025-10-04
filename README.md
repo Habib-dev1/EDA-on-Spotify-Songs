@@ -76,5 +76,5 @@ Integrate with Spotify API for live data updates.
 
 Habibullah
 🔗 Portfolio
- | https://github.com/habib-dev1/
- | https://www.linkedin.com/in/habib-amz-a678592b6
+ | [GitHub](https://github.com/habib-dev1/)
+ | [LinkedIn](https://github.com/habib-dev1/)
